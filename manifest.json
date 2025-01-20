@@ -1,0 +1,48 @@
+{
+	"id": "odougzin.site/turboslots",
+	"name": "TURBO SLOTS",
+	"short_name": "Turbo Slots",
+	"description": "Identificando falha no sistema dos Jogos",
+	"icons": [
+		{
+			"src": "https://odougzin.site/turboslots/Images/logo192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "https://odougzin.site/turboslots/Images/logo192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "https://odougzin.site/turboslots/Images/logo512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "monochrome"
+		}
+	],
+	"background_color": "#232eff",
+	"theme_color": "#2723ff",
+	"display": "standalone",
+	"dir": "ltr",
+	"orientation": "portrait",
+	"start_url": "/turboslots/",
+	"scope": "/",
+	"shortcuts": [
+		{
+			"name": "Turbo Slots",
+			"url": "/turboslots/",
+			"description": "Identificando falha no sistema dos Jogos",
+			"icons": [
+				{
+					"src": "https://odougzin.site/turboslots/Images/logo192.png",
+					"sizes": "192x192"
+				}
+			]
+		}
+	],
+	"launch_handler": { "client_mode": "auto" },
+	"handle_links": "preferred"
+}
